@@ -1,0 +1,2 @@
+Kushagra|Hosteller|2500.0|200.0|1
+Prakhar|Student|2000.0|0.0|0
