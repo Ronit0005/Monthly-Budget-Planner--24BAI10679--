@@ -106,5 +106,5 @@ Name|Job|Income|GoalAmount|GoalMonths
 
 **Author:**
 
-**Aditya Patel(24BAI10676)**
+**Ronit Kumar Singh(24BAI10679)**
 
